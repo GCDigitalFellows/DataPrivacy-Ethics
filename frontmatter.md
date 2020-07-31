@@ -28,6 +28,11 @@ In this workshop, participants will:
 
 - [CUNY UFS Committee on Libraries and Information Technology](http://www1.cuny.edu/sites/cunyufs/committees/senate/standing/libraries-it/meetings-2019-2020/)
 - [Academia in the Time of COVID-19: Towards an Ethics of Care](https://www.tandfonline.com/doi/full/10.1080/14649357.2020.1757891) The article is in the journal of Planning Theory & Practices hosted by Taylor and Francis. Access to the article will have to go through your CUNY library account.
+- [The 3 Biggest Remote Teaching Concerns We Need to Solve Now](https://www.edsurge.com/news/2020-04-02-the-3-biggest-remote-teaching-concerns-we-need-to-solve-now)
+
+### Resources
+- CUNY IT [Resources for Remote Work & Teaching](https://www.cuny.edu/about/administration/offices/cis/it-resources-for-remote-work-teaching/)
+- Rebecca Davis, Matt Gold, Katherine Harris, and Jentery Sayers, [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/)
 
 ## Acknowledgements
 

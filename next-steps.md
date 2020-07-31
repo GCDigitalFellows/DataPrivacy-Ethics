@@ -2,14 +2,16 @@
 
 ## Suggested Further Readings
 
+### Ethics, Accessibility and Care in Remote Learning
 - Lucas Ashby, Nicole E. Cote, Kelly Cotton, Yuxiao Luo, Zoë Markovits, and Eva Sibinga: [Understand COVID-19's Impact on CUNY Students](https://dataforgood.commons.gc.cuny.edu/report-on-covid-19s-impact-on-cuny-students/)
 - Meira Levinson: [Educational Ethics During a Pandemic](https://ethics.harvard.edu/files/center-for-ethics/files/17educationalethics.pdf)
-- CUNY IT: [Resources for Remote Work & Teaching](https://www.cuny.edu/about/administration/offices/cis/it-resources-for-remote-work-teaching/)
-- Rebecca Davis, Matt Gold, Katherine Harris, and Jentery Sayers: [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/)
 - Luke Wood & Frank Harris (CORA)'s webinar on: [Employing Equity-Minded & Culturally-Affirming Teaching Practices in Virtual Learning Communities](https://www.youtube.com/watch?reload=9&v=aMrf_MC5COk&feature=youtu.be)
-- CUNY School of Professional Studies: [Faculty Community Site](https://spsfaculty.commons.gc.cuny.edu/quick-guides/)
 - Heydon Works: [How Screen Reader Users Access the Web](https://heydonworks.com/article/responses-to-the-screen-reader-strategy-survey/)
 - W3C: [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
+
+### Data Privacy and Course Planning
+- Checrallah, M., Sonnett, C., & Desgres, J. [Evaluating Cost, Privacy, and Data](https://edtechbooks.org/digitaltoolsapps/evaluatingcostprivacydata)
+- CUNY School of Professional Studies: [Faculty Community Site](https://spsfaculty.commons.gc.cuny.edu/quick-guides/)
 
 ## Other Tutorials
 
