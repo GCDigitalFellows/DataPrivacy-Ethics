@@ -3,7 +3,7 @@
 <!---ABSTRACT--->
 Learning to live with the pandemic is shaping to be our new reality. Given that we are likely to continue with some form of remote learning in the upcoming semester, it is important to consider how and why we are choosing to use particular platforms and tools. For example, in your course planning, have you considered how might you be generating "learning data" with the tools you've chosen? In addition to data privacy, does the platform or tool you are planning to use follow, at the minimum, a [universal design for learning](http://udlforteachers.com/)?    
 
-As we move into the Fall semester, we need to take a step back and look at what data we are (un)intentionally collecting of us and of our students as a result of hybrid and online learning environments. In this workshop, we will consider the dimensions of data privacy and ethics, particular of our students' learning data, in tandem with our need to utilize different remote learning platforms and tools. We will also discuss how we can make our remote learning environment more accessible.    
+As we move into the upcoming semester, we need to take a step back and look at what data we are (un)intentionally collecting of us and of our students as a result of hybrid and online learning environments. In this workshop, we will consider the dimensions of data privacy and ethics, particular of our students' learning data, in tandem with our need to utilize different remote learning platforms and tools. We will also discuss how we can make our remote learning environment more accessible.    
 
 
 ## Learning Goals
@@ -22,9 +22,7 @@ As it was recently shared by the [CUNY UFS Committee on Libraries and Informatio
 
 In addition, our students access to technology is not evenly distributed. We know that CUNY had taken steps to address this by [distributing laptops, chromebooks, and tablets in the previous semester](https://twitter.com/CUNY/status/1243611257686626306?s=20) but it remains uncertain if students have continued access in the upcoming semester as well as the ability to rely on consistent internet access. Hence, when we consider the platforms and tools we include in our course, we need to also think about how our students might access these materials. For example, might they be using their phones or tablets as the main device to access course material? If they're on limited internet access, can they stream or download video lectures?  
 
-On top of considering the material accessibility, we should also consider how accessible our chosen tools and platforms are for students with different abilities in our classrooms. For example, is closed captioning available on your video lecture? Is the site you send your students to screen-reader friendly?   
-
-
+On top of considering the material accessibility, we should also consider how accessible our chosen tools and platforms are for students with different abilities in our classrooms. For example, is closed captioning available on your video lecture? Is the reading you send to your students to screen-reader friendly?   
 
 ## Activity
 
@@ -64,3 +62,4 @@ No clear cut on what is right. Neither is there a way to craft a universal guide
 - [CUNY's IT Resources for Remote Work & Teaching](https://www.cuny.edu/about/administration/offices/cis/it-resources-for-remote-work-teaching/)
 - [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/)
 - [Employing Equity-Minded & Culturally-Affirming Teaching Practices in Virtual Learning Communities](https://www.youtube.com/watch?reload=9&v=aMrf_MC5COk&feature=youtu.be)
+- [W3C's Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
