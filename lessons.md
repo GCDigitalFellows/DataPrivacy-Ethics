@@ -17,7 +17,8 @@ Students' access to technology is unevenly distributed. We know that CUNY had ta
 On top of considering the methods of gaining access to our materials, we should also consider how accessible our chosen tools and platforms are for students with different abilities in our classrooms. For example, is closed captioning available on your video lecture? Can the journal articles or book chapter be easily read by a screen-reader?  
 
 Also consider how this pandemic has caused a shift in work-life balance in many of our students (and ourselves!). Even before this crisis, we know that most of our students juggle with taking on multiple roles in their lives, such as being a care-giver, an employee and a student. In this current moment, many have to take on new roles and responsibilities or deal with sickness and death, and may not be able to prioritized the role of a student. Despite this, they may not be able to take a leave of absence due to a variety of reasons, such as access to healthcare, income, and/or maintenance of status. As such, when we plan for our classes for the upcoming semester, we should also consider these realities that may be impacting our students ability to participate in classes. Our students have chosen to take our classes and often desire to participate fully in them; hence, we, as educators, have to learn how to be flexible and adaptable with our plans and to approach with an [ethics of care](https://www.tandfonline.com/doi/full/10.1080/14649357.2020.1757891) in creating our remote learning environment. 
-Students who still have concerns can choose an alternative assignment or we can discuss other possible avenues and possibilities for file sharing. 
+
+## Let's Practice 
 Let's try to apply some of the considerations illustrated above in a course you're planning to teach in Fall. 
 
 ### Activity 1:
