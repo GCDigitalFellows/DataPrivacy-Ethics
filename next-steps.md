@@ -17,6 +17,7 @@
 
 - [Universal design for learning](http://udlforteachers.com/) goes more in-depth with the different features of universal designs
 -  CUNY School of Professional Studies' [Course Design & Development Tutorial Introduction](https://spscoursedesign.commons.gc.cuny.edu/) for a step-by-step guide to creating a course with access in mind.
+- Teach @ CUNY Institute [Equity and Access in the Online Classroom](https://equityaccess.commons.gc.cuny.edu/).
 
 ## Discussion Questions
 
